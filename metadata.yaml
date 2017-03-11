@@ -1,5 +1,8 @@
 _repo: Webster-s-Unabridged-Dictionary--2nd-100-Pages-_248
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Noah
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/139
     wikipedia: http://en.wikipedia.org/wiki/Noah_Webster
 description: 2nd 100 Pages
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/248#Webster-s-Unabridged-Dictionary--2nd-100-Pages-
 gutenberg_issued: '1995-04-01'
 gutenberg_type: Text
 identifiers:
